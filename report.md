@@ -1,0 +1,1 @@
+This Lab helped me understand how GitHub repositories are structured and how GitHub Pages work. I also practiced basic Git operations such as committing changes and understanding how branches affect the working directory. Overall, this experience improved my confidence in using GitHub to deploy and manage personal projects.
